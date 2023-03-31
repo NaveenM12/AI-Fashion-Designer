@@ -18,9 +18,10 @@ Different tensors in the model serve to augment different features of the design
 
 ## Next Steps
 Separation of Training Sets: Separating training sets into Male vs Female, Fall vs Spring, etc. would allow for better training and also more specific generations for the needs of the user. 
-
+<br>
 Training for Longer: Training this model for longer would help create more realistic designs, but as the model trains on the order of weeks, this is hard to do with Colab limits. 
-
+<br>
 More/Better customization: As explained above, if I was able to go through more of the tensors to identify how they change the designs, then there could be much more accurate and more precise customization 
-
+<br>
+<br>
 Technologies Used: Python, Pytorch, Tensorflow, Keras, StyleGAN2, Neural Network, Clustering, Gradio
